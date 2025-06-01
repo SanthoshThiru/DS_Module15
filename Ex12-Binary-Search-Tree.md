@@ -22,7 +22,7 @@ child pointer.
 Program to insert the elements in the binary search tree
 
 Developed by: Santhosh T
-RegisterNumber: 212223220100
+Register Number: 212223220100
 */
 
 /*struct node {
